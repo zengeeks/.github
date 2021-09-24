@@ -1,0 +1,8 @@
+{
+    "name": "Organization Workflow tepmlate sample",
+    "description": "Sample CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "C#"
+    ],
+}
