@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 960 960">
+<style type="text/css">
+  polygon {
+    fill: #000;
+  }
+  @media (prefers-color-scheme: dark) {
+    polygon {
+      fill: #fff;
+    }
+  }
+</style>
+<polygon points="464.2,563.7 587.6,567.4 529.5,454.5 "/>
+<polygon points="195.5,758.9 661.6,641.9 334.3,643.8 558.9,233 551.8,204.6 236.2,366.8 413,322.4 183.1,709.5 "/>
+<polygon points="488,702.4 823.7,731.2 559.2,360 725.2,677.7 "/>
+</svg>
